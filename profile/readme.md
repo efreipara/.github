@@ -1,3 +1,5 @@
+![Bannière](banner.png)
+
 # Bienvenue 🪂
 
 Bienvenue sur le profil d'Efrei Para !
